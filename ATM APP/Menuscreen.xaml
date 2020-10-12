@@ -1,0 +1,34 @@
+﻿<Window x:Class="ATM_APP.Menuscreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ATM_APP"
+        Title="Menuscreen" Height="500" Width="720" Background="Teal" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="mybtnstyl" TargetType="Button">
+        <Setter Property="Height"  Value="40"></Setter>
+            <Setter Property="Background" Value="White"></Setter>
+            <Setter Property="Width" Value="200"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="FontWeight" Value="SemiBold"></Setter> 
+    </Style>
+        
+    </Window.Resources>
+    <Window.DataContext>
+        <local:MenuViewModel>
+        </local:MenuViewModel>
+    </Window.DataContext>
+    <Grid>
+        <Label  x:Name="custnamelbl" Content="{Binding Custlbl, UpdateSourceTrigger=PropertyChanged}" Foreground="White" FontSize="18" FontWeight="SemiBold"  Margin="482,24,24.6,394.4" />
+        <StackPanel>
+            
+            <Button x:Name="balbtn" Command="{Binding CmdCheckBal}" Content="Check Balance" Style="{StaticResource mybtnstyl}" Margin="0,120,0,0"/>
+            <Button x:Name="withdrawbtn" Command="{Binding CmdWithdrawAmt}" Content="Withdraw Money"  Style="{StaticResource mybtnstyl}" Margin="20,20,20,0"/>
+            <Button x:Name="transferbtn" Command="{Binding CmdTransferMoney}" Content="Transfer Money"  Style="{StaticResource mybtnstyl}"  FontWeight="SemiBold" Margin="20,20,20,0"/>
+            <Button x:Name="pinchangebtn" Command="{Binding CmdChngPin}" Content="Change PIN"   Style="{StaticResource mybtnstyl}" Margin="20,20,20,0"/>
+            <Button x:Name="ministmt_btn" Command="{Binding CmdMiniStatement}" Content="Mini Statement"   Style="{StaticResource mybtnstyl}" Margin="20,20,20,0"/>
+
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>
