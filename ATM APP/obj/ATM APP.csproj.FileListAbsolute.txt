@@ -1,0 +1,26 @@
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\bin\Debug\ATM APP.exe.config
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\bin\Debug\ATM APP.exe
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\bin\Debug\ATM APP.pdb
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP.csprojResolveAssemblyReference.cache
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\MainWindow.baml
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\MainWindow.g.cs
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\App.g.cs
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP_MarkupCompile.cache
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP.g.resources
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM_APP.Properties.Resources.resources
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP.csproj.GenerateResource.Cache
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP.exe
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP.pdb
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\Menuscreen.baml
+c:\users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\Menuscreen.g.cs
+C:\Users\bmjsr\Documents\Visual Studio 2012\Projects\ATM APP\ATM APP\bin\Debug\Oracle.DataAccess.dll
+C:\Users\bmjsr\Documents\Visual Studio 2012\Projects\ATM APP\ATM APP\obj\Debug\ATM APP_MarkupCompile.lref
+C:\Users\bmjsr\Documents\Visual Studio 2012\Projects\ATM APP\ATM APP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\WithdrawMoney.baml
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\WithdrawMoney.g.cs
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\PINChange.g.cs
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\PINChange.baml
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\TransferMoney.baml
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\TransferMoney.g.cs
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\MiniStatement.baml
+C:\Users\bmjsr\documents\visual studio 2012\Projects\ATM APP\ATM APP\obj\Debug\MiniStatement.g.cs
